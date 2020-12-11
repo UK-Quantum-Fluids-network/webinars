@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to the UK Quantum Fluids network webpage!
+Welcome to the UK Quantum Fluids network webinar series webpage!
