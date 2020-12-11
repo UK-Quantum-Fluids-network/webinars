@@ -23,8 +23,8 @@ title: UK Quantum Fluids
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the UK Quantum Fluids network webpage.
   You can find here news about webinars, events, and activities.
-baseurl: "/UK-quantum-fluids/" # the subpath of your site, e.g. /blog
-url: "https://davideproment.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/webinars/" # the subpath of your site, e.g. /blog
+url: "https://uk-quantum-fluids-network.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 #github_username:  davideproment
 #instagram_username:
