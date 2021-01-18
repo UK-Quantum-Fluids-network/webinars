@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dr Heikkinen gives a webinar on 'surface states in superfluid 3He'"
+title:  "Dr Heikkinen gives a webinar on 'surface states in superfluid <sup>3</sup>He'"
 date:   2021-04-13
 categories: webinar
 ---
