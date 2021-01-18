@@ -22,7 +22,7 @@ title: UK Quantum Fluids network - webinars
 #email: d.proment@uea.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the UK Quantum Fluids network webinar series webpage.
-  You can find here news about webinars, events, and activities.
+  You can find here news about webinars, events, and activities. Please contact s.autti at lancaster.ac.uk for inquiries. 
 baseurl: "/webinars/" # the subpath of your site, e.g. /blog
 url: "https://uk-quantum-fluids-network.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
