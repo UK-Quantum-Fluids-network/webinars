@@ -11,4 +11,6 @@ layout: home
    </a>
  </figure>
  
-<large>Welcome to the UK Quantum Fluids network webinar series webpage!</large>
+<font size="+2">
+   Welcome to the UK Quantum Fluids network webinar series webpage!
+</font>
