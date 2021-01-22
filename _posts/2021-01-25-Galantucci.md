@@ -6,6 +6,10 @@ categories: webinar
 ---
 Dr Luca Galantucci (Newcastle University) gives a webinar on 'Long-lived superfluid vortex bundles in a self-consistent model of Quantum Turbulence'
 
+Zoom information:
+
+Meeting ID: 847 9023 6960
+Passcode: 162721
 
 Abstract to follow.
 
