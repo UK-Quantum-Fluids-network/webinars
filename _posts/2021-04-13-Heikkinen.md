@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dr Petri Heikkinen gives a webinar on 'surface states in superfluid 3He' at 4pm UK time"
+title:  "Dr Petri Heikkinen gives a webinar on 'Fragility of surface states in topological superfluid 3He' at 4pm UK time"
 date:   2021-04-13
 categories: webinar
 ---
