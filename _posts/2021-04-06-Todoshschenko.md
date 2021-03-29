@@ -6,7 +6,8 @@ categories: webinar
 ---
 Dr Igor Todoshschenko (Aalto University) gives a webinar on "Mobile solid <sup>3</sup>He on carbon nanotube promoted by topological frustration" at 4pm UK time.
 
-Zoom link: https://newcastleuniversity.zoom.us/j/86127293153
+Zoom link: <a href="https://newcastleuniversity.zoom.us/j/86127293153">https://newcastleuniversity.zoom.us/j/86127293153</a>
+ 
 
 passcode: 109348
 
