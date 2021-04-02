@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Dr Igor Todoshschenko gives a webinar on 'Mobile solid 3He on carbon nanotube promoted by topological frustration' at 4pm UK time"
+title:  "Dr Igor Todoshchenko gives a webinar on 'Mobile solid 3He on carbon nanotube promoted by topological frustration' at 4pm UK time"
 date:   2021-04-06
 categories: webinar
 ---
-Dr Igor Todoshschenko (Aalto University) gives a webinar on "Mobile solid <sup>3</sup>He on carbon nanotube promoted by topological frustration" at 4pm UK time.
+Dr Igor Todoshchenko (Aalto University) gives a webinar on "Mobile solid <sup>3</sup>He on carbon nanotube promoted by topological frustration" at 4pm UK time.
 
 Zoom link: <a href="https://newcastleuniversity.zoom.us/j/86127293153">https://newcastleuniversity.zoom.us/j/86127293153</a>
  
