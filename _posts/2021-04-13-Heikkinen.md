@@ -6,6 +6,12 @@ categories: webinar
 ---
 Dr Petri Heikkinen (Royal Holloway University of London) gives a webinar on "Fragility of surface states in topological superfluid <sup>3</sup>He" at 4pm UK time.
 
+Zoom link https://newcastleuniversity.zoom.us/j/86504077253
+
+Meeting ID: 865 0407 7253
+
+Passcode: 786156
+
 Topological superfluid 3He provides an extremely pure and defect-free model system for topological superconductors. Their non-trivial topology predicts existence of exotic gapless surface and edge states. To enable the realization and manipulation of such zero-energy states, Majorana zero modes, for topological quantum computation, the understanding of the properties of nontopological low-energy Andreev bound states at the surfaces and edges is important. Here we eliminate the bulk properties by confining thin films of superfluid 3He in nanofabricated slab-shaped cavities of heights 200 and 80 nm, made of silicon providing atomically smooth surfaces. The used cavity heights are comparable to the size of the Cooper pairs, tuneable between 20 and 80 nm by pressure. We probe the superfluid order parameter using extremely sensitive SQUID-NMR. The strong confinement stabilises the chiral 3He-A phase at all pressures and suppresses the superfluid energy gap and transition temperature Tc, depending on the quasiparticle scattering boundary condition.
 
 In 200 nm high cavity the internal surface is coated by a magnetic surface boundary layer of solid 3He. Remarkably, we find that the measured suppression of Tc significantly exceeds that predicted for a diffusely scattering surface and is shifted towards that expected for a maximally pair-breaking, retro-reflecting, surface. The result can be accounted for by enhanced surface pair breaking caused by magnetic exchange scattering of 3He quasiparticles by localised 3He atoms bound to the surface. Within quasiclassical theory, the detected larger Tc suppression implies an excess of low energy surface-bound states. The result extends previous work in which the boundary condition for surface scattering of quasiparticles was tuned in situ by coating the surfaces with controlled amount of bosonic 4He, varying the surface scattering between diffuse and fully specular, with the elimination of Tc suppression in the latter case. In 80 nm high cavity the film thickness approaches the quasi-two-dimensional limit. We show that with specular boundary condition the properties of this highly confined superfluid remain unchanged from the expectations for chiral 3He-A.
