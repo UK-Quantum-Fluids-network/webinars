@@ -6,11 +6,7 @@ categories: webinar
 ---
 Dr Petri Heikkinen (Royal Holloway University of London) gives a webinar on "Fragility of surface states in topological superfluid <sup>3</sup>He" at 4pm UK time.
 
-Zoom link https://newcastleuniversity.zoom.us/j/86504077253
-
-Meeting ID: 865 0407 7253
-
-Passcode: 786156
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FyeDu3xcyDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 Topological superfluid 3He provides an extremely pure and defect-free model system for topological superconductors. Their non-trivial topology predicts existence of exotic gapless surface and edge states. To enable the realization and manipulation of such zero-energy states, Majorana zero modes, for topological quantum computation, the understanding of the properties of nontopological low-energy Andreev bound states at the surfaces and edges is important. Here we eliminate the bulk properties by confining thin films of superfluid 3He in nanofabricated slab-shaped cavities of heights 200 and 80 nm, made of silicon providing atomically smooth surfaces. The used cavity heights are comparable to the size of the Cooper pairs, tuneable between 20 and 80 nm by pressure. We probe the superfluid order parameter using extremely sensitive SQUID-NMR. The strong confinement stabilises the chiral 3He-A phase at all pressures and suppresses the superfluid energy gap and transition temperature Tc, depending on the quasiparticle scattering boundary condition.
 
