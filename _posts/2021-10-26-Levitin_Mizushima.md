@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lev Levitin and Takeshi Mizushima talk about spatially-modulated phases of 3He at 4pm (UK)"
+title:  "Lev Levitin and Takeshi Mizushima talk about the spatially-modulated phases of 3He at 4pm (UK)"
 date:   2021-10-26
 categories: webinar
 ---
