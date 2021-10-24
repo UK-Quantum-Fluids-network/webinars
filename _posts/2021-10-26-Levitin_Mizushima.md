@@ -5,7 +5,7 @@ date:   2021-10-26
 categories: webinar
 ---
 
-The new academic year will start with a webinar session on the spatially-modulated phases of superfluid 3He. The speakers in this session are Dr Lev Levitin 
+The new academic year will start with a webinar session on Cooper pair density waves in superfluid 3He. The speakers are Dr Lev Levitin 
 from Royal Holloway University of London, and Prof. Takeshi Mizushima from Osaka University. The session will start at 4pm with two 30min presentations.
 
 Zoom Meeting ID: 874 2579 4914
