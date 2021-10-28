@@ -8,11 +8,7 @@ categories: webinar
 The new academic year will start with a webinar session on Cooper pair density waves in superfluid 3He. The speakers are Dr Lev Levitin 
 from Royal Holloway University of London, and Prof. Takeshi Mizushima from Osaka University, Japan. The session will start at 4pm with two 30min presentations.
 
-Zoom Meeting ID: 874 2579 4914
-
-Passcode: 880478
-
-link: https://newcastleuniversity.zoom.us/j/87425794914
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m9ZPR3Em6qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
  
