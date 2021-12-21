@@ -5,13 +5,7 @@ date:   2021-12-07
 categories: webinar
 ---
 
-This week we have two talks in the webinar series from early career researchers. <b> Please note the first talk will start at 10am UK time. </b>
-
-
-Zoom details:
-Meeting ID: 873 4569 2060
-Passcode: 609949
-
+This week we have two talks in the webinar series from early career researchers. 
 
 Speaker 1: Sosuke Inui, Osaka City University (10am UK)
 
