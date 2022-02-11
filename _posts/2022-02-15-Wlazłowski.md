@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gabriel Wlazłowski gives a webinar on 'Fermionic superfluidity: from single vortex dynamics to quantum turbulence' at 4pm UK time"
-date:   2022-02-02
+date:   2022-02-15
 categories: webinar
 ---
 
