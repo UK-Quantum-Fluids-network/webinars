@@ -7,6 +7,15 @@ categories: webinar
 
 Gabriel Wlazłowski (Warsaw University of Technology & University of Washington) gives a webinar on "Fermionic superfluidity: from single vortex dynamics to quantum turbulence".
 
+Join Zoom Meeting
+
+[https://newcastleuniversity.zoom.us/j/84096720583](https://newcastleuniversity.zoom.us/j/84096720583)
+
+Meeting ID: 840 9672 0583
+
+Passcode: 211061
+
+
 Quantum vortices are one of the best-known examples of topological excitations in superfluids. They occur both in bosonic systems (4He liquid below lambda point, atomic BECs) and fermionic systems (superfluid 3He, metallic superconductors, neutron matter fermionic ultracold gases). While much work has been performed with bosonic systems, detailed studies of fermionic superfluid dynamics are nascent, despite wide applicability to other contexts such as rotating neutron stars. I will review recent studies related to quantum vortices in Fermi systems and contrast them with bosonic analogs in this seminar. In particular, I will discuss the vortex core structure evolution from weak to strong coupling limits of the BCS-BEC crossover. Next, numerical results for vortex reconnection events across the crossover will be shown, where we confirm the presence of universal scaling, as predicted for Bose systems. Finally, I will show that ultra-cold fermionic atoms may provide a new platform for studying quantum turbulence, where new dissipation mechanisms intrinsic to fermionic superfluids play a key role in differentiating fermionic from bosonic turbulence.
 
 References:
