@@ -34,6 +34,7 @@ url: "https://uk-quantum-fluids-network.github.io" # the base hostname & protoco
 
 # Build settings
 theme: minima
+future: true
 plugins:
   - jekyll-feed
 
