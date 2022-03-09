@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dr August Geelmuyden gives a webinar on 'The sound-ring radiation of expanding vortex clusters' (4pm UK time)"
+title:  "August Geelmuyden gives a webinar on 'The sound-ring radiation of expanding vortex clusters' (4pm UK time)"
 date:   2022-03-15
 categories: webinar
 ---
