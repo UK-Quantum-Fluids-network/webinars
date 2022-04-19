@@ -5,4 +5,7 @@
 - you may find helpful to use the template provided.
 - once you add and committed your changes, the new post will be automatically deployed online. Note that this may take few minutes and rembember to refresh your browser. 
 
+## How to add a UK QF work opportunity
+- a description will be added.
+
 
