@@ -12,7 +12,8 @@ To excite a wave turbulent cascade, we shake the gas strongly using a large-scal
 
 We will further present how such a non-thermal steady state emerges starting from an equilibrium system. We observe the two key ingredients in the formation of steady-state turbulence – the emergence (restoration) of statistical momentum-space isotropy under anisotropic forcing, and the spatiotemporal scaling of the spectrum of excitations at times before any energy is dissipated.
 
-Zoom link:
+Zoom info:
 https://newcastleuniversity.zoom.us/j/84559747467
 
+Meeting ID: 845 5974 7467
 Passcode: 334695
