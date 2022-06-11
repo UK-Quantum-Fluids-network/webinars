@@ -18,9 +18,15 @@ Lastly, I will discuss recent developments on the role of polariton condensate n
 Other authors: J. D. Töpfer, L. Pickup, S. Harrison, T. Cookson, I. Gnusov, S. Baryshev, A. Askitopoulos, S. Alyatkin, and P. G. Lagoudakis
 
 [1] Töpfer et al., Communication Physics 3, 2 (2020).
+
 [2] Töpfer et al., Optica 8, 106 (2021).
+
 [3] Gnusov et al., Physical Review B 102, 125419 (2020).
+
 [4] Cookson et al., Nature Communications 12, 2120 (2021).
+
 [5] Alyatkin et al., Physical Review Letters 124, 207402 (2020).
+
 [6] Pickup et al., Nature Communications 11, 4431 (2020).
+
 [7] Alyatkin et al., Nature Communications 12, 5571 (2021).
