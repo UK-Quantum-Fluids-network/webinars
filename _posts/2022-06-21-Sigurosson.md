@@ -17,7 +17,7 @@ Recent years have seen a surge of advancements in optical manipulation over boso
 
 In this talk, I will present results on all-optically engineered macroscopic networks of connected exciton-polariton condensates, which permit studies on fundamental emergent behaviours in complex nonequilibrium dynamical systems while subject to a drive and bosonic final-state stimulation. I will explain how a uniquely polaritonic feature gives rise to so-called “ballistic condensates” which, when spatially coupled, form a bosonic condensed matter analog of time-delay coupled oscillators that are ubiquitous in nature. I will present experimental and theoretical results on large-scale condensate networks displaying aforementioned emergent behaviors, including: spontaneous synchronization with unprecedented long-range spatial and temporal correlations [1,2], strong polarization buildup and control [2], geometric frustration and formation of persistent superfluid currents [3], non-invasive optical control of the network coupling weights [4], and synthesis of artificial lattices with non-Hermitian flatband and topological properties [5,6].
 
-<img src=sigurdsson_picture.png>
+<img src=https://uk-quantum-fluids-network.github.io/webinars/sigurdsson_picture.png>
 
 Lastly, I will discuss recent developments on the role of polariton condensate networks as nonlinear information processing elements in the optical computing paradigm. I will address three examples: room-temperature optical logic, analog simulators of spin-glass Hamiltonians, and as neuromorphic computing hardware.
 
