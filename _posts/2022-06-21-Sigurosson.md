@@ -19,6 +19,13 @@ In this talk, I will present results on all-optically engineered macroscopic net
 
 <img src=https://uk-quantum-fluids-network.github.io/webinars/sigurdsson_picture.png>
 
+<figure>
+   <a href="https://www.iop.org/physics-community/special-interest-groups/low-temperature-group#gref">
+   <img src="low_temp_group_rgb_.jpg" style="max-width: 236px;"
+      alt="IOP Low Temp logo" />
+   </a>
+ </figure>
+
 Lastly, I will discuss recent developments on the role of polariton condensate networks as nonlinear information processing elements in the optical computing paradigm. I will address three examples: room-temperature optical logic, analog simulators of spin-glass Hamiltonians, and as neuromorphic computing hardware.
 
 Other authors: J. D. Töpfer, L. Pickup, S. Harrison, T. Cookson, I. Gnusov, S. Baryshev, A. Askitopoulos, S. Alyatkin, and P. G. Lagoudakis
