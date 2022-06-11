@@ -5,4 +5,16 @@ date:   2022-06-21
 categories: webinar
 ---
 
-The abstract will be added here soon.
+Recent years have seen a surge of advancements in optical manipulation over bosonic light-matter quasiparticles known as exciton-polaritons in semiconductor microcavities. These particles appear under strong-coupling conditions between cavity photons and embedded quantum-well excitons. Characterised by very high interaction strengths, nonlinearities, and picosecond timescales, these coherent light sources provide an exciting testbed to explore room-temperature nonequilibrium Bose-Einstein condensation in the optical regime.
+
+In this talk, I will present results on all-optically engineered macroscopic networks of connected exciton-polariton condensates, which permit studies on fundamental emergent behaviours in complex nonequilibrium dynamical systems while subject to a drive and bosonic final-state stimulation. I will explain how a uniquely polaritonic feature gives rise to so-called “ballistic condensates” which, when spatially coupled, form a bosonic condensed matter analog of time-delay coupled oscillators that are ubiquitous in nature. I will present experimental and theoretical results on large-scale condensate networks displaying aforementioned emergent behaviors, including: spontaneous synchronization with unprecedented long-range spatial and temporal correlations [1,2], strong polarization buildup and control [2], geometric frustration and formation of persistent superfluid currents [3], non-invasive optical control of the network coupling weights [4], and synthesis of artificial lattices with non-Hermitian flatband and topological properties [5,6].
+
+Lastly, I will discuss recent developments on the role of polariton condensate networks as nonlinear information processing elements in the optical computing paradigm. I will address three examples: room-temperature optical logic, analog simulators of spin-glass Hamiltonians, and as neuromorphic computing hardware.
+
+[1] Töpfer et al., Communication Physics 3, 2 (2020).
+[2] Töpfer et al., Optica 8, 106 (2021).
+[3] Gnusov et al., Physical Review B 102, 125419 (2020).
+[4] Cookson et al., Nature Communications 12, 2120 (2021).
+[5] Alyatkin et al., Physical Review Letters 124, 207402 (2020).
+[6] Pickup et al., Nature Communications 11, 4431 (2020).
+[7] Alyatkin et al., Nature Communications 12, 5571 (2021).
