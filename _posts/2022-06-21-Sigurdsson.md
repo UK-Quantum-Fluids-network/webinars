@@ -7,8 +7,13 @@ categories: webinar
 
 Dr Helgi Sigurðsson (University of Southampton) gives a webinar titled "Programmable networks of exciton-polariton condensates."
 
+Zoom:
 
-Zoom details will be published here soon.
+https://newcastleuniversity.zoom.us/j/83638965429
+
+Meeting ID: 836 3896 5429
+
+Passcode: 478275
 
 
 
