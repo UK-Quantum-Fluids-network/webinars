@@ -7,9 +7,7 @@ categories: webinar
 
 Dr Helgi Sigurðsson (University of Southampton) gives a webinar titled "Programmable networks of exciton-polariton condensates."
 
-Zoom: https://newcastleuniversity.zoom.us/j/83638965429; Meeting ID: 836 3896 5429; Passcode: 478275
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UllkIAcLdvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 
 Recent years have seen a surge of advancements in optical manipulation over bosonic light-matter quasiparticles known as exciton-polaritons in semiconductor microcavities. These particles appear under strong-coupling conditions between cavity photons and embedded quantum-well excitons. Characterised by very high interaction strengths, nonlinearities, and picosecond timescales, these coherent light sources provide an exciting testbed to explore room-temperature nonequilibrium Bose-Einstein condensation in the optical regime.
