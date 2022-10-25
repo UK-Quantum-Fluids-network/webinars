@@ -6,7 +6,6 @@ categories: webinar
 ---
 Dr David Schmoranzer (Charles University) gives a webinar on "Experiments on Inhomogeneous Quantum Turbulence in Superfluid ⁴He".
 
-Join Zoom Meeting
 <a href="https://newcastleuniversity.zoom.us/j/84926712687">Join Zoom Meeting here</a>
 
 Meeting ID: 849 2671 2687
