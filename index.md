@@ -13,4 +13,5 @@ layout: home
   <font size="+2"><a href="https://uk-quantum-fluids-network.github.io/jobs/">Quantum Fluids Jobs and PhD Opportunities</a> </font> 
  <br>
 <font size="+2">Welcome to the UK Quantum Fluids network webinar series webpage!</font>
+Recordings of previous webinars are available on our YouTube channel <a href="https://www.youtube.com/@QuantumFluids">https://www.youtube.com/@QuantumFluids</a>
 <br>
