@@ -14,5 +14,5 @@ layout: home
  <br>
 <font size="+2">Welcome to the UK Quantum Fluids network webinar series webpage!</font>
 <br>
-Recordings of previous webinars are available on our YouTube channel <a href="https://www.youtube.com/@QuantumFluids">https://www.youtube.com/@QuantumFluids</a>
+Recordings of previous webinars are available on our YouTube channel <a href="https://www.youtube.com/@QuantumFluids/videos">https://www.youtube.com/@QuantumFluids</a>
 <br>
