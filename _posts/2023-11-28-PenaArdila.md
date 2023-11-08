@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dr Luis Aldemar Peña Ardila gives a webinar on 'Catalyzation of supersolidity in Dipolar Binary Mixtures' (4pm UK time)"
-date:   2021-02-09
+date:   2023-11-28
 categories: webinar
 ---
 Dr Luis Aldemar Peña Ardila (University of Camerino) gives a webinar on "Catalyzation of supersolidity in Dipolar Binary Mixtures" at 4pm UK time.
