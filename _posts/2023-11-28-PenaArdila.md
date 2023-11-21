@@ -1,11 +1,17 @@
 ---
 layout: post
-title:  "Dr Luis Aldemar Peña Ardila gives a webinar on 'Catalyzation of supersolidity in Dipolar Binary Mixtures' (4pm UK time)"
+title:  "Luis Aldemar Peña Ardila gives a webinar on 'Catalyzation of supersolidity in Dipolar Binary Mixtures' (4pm UK time)"
 date:   2023-11-28
 categories: webinar
 ---
-Dr Luis Aldemar Peña Ardila (University of Camerino) gives a webinar on "Catalyzation of supersolidity in Dipolar Binary Mixtures" at 4pm UK time.
+Luis Aldemar Peña Ardila (University of Camerino) gives a webinar on "Catalyzation of supersolidity in Dipolar Binary Mixtures" at 4pm UK time.
 The abstract is below.
+
+Zoom Meeting link:
+
+https://newcastleuniversity.zoom.us/j/86024258680
+
+Meeting ID: 860 2425 8680 (no passcode)
 
 Breakthrough experiments have newly explored the fascinating 
 physics of dipolar quantum droplets and supersolids. 
