@@ -31,8 +31,12 @@ leading to bubble formation. Once formed, the bubble eventually expands into the
 References
 
 [1] The Fate of the False Vacuum. 1. Semiclassical Theory, S. R. Coleman, Phys. Rev. D. 16, 1248 (1977)
+
 [2] False vacuum decay in quantum spin chains, G. Lagnese et al., Phys. Rev. B. 104 L201106 (2021)
+
 [3] Phase transitions in the early universe, M. Hindmarsh et al. SciPost Phys. Lect. Notes 24 (2021)
+
 [4] False vacuum decay via bubble formation in ferromagnetic superfluids, A. Zenesini, A. Berti, R.
 Cominotti et al, Nat. Phys. (2024).
+
 [5] Ferromagnetism in an Extended Coherently Coupled Atomic Superfluid, R. Cominotti, A. Berti et al.
