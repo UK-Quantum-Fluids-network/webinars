@@ -20,11 +20,8 @@ of spin bubbles. Our results find good agreement with numerical simulations and 
 way for the simulation of out-of-equilibrium phenomena in a highly controllable and tunable atomic system.
 
 
-<figure>
-  <img src="https://uk-quantum-fluids-network.github.io/webinars/Cominotti_figure1.png" alt="Figure 1">
-  <figcaption>Figure 1: False vacuum decay process. Tunneling occurs from the false vacuum (A) to the resonant state (B),
-leading to bubble formation. Once formed, the bubble eventually expands into the true vacuum state (C).</figcaption>
-</figure>
+<img src="https://uk-quantum-fluids-network.github.io/webinars/Cominotti_figure1.png">
+
 
 
 
