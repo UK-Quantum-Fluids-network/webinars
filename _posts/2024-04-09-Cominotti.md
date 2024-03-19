@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Riccardo Cominotti (Università di Trento, Italy) talks about 'False vacuum decay via bubble formation in ferromagnetic superfluids' (4PM UK time)"
+title:  "Riccardo Cominotti (CNR-INO, Trento) talks about 'False vacuum decay via bubble formation in ferromagnetic superfluids' (4PM UK time)"
 date:   2024-04-09
 categories: webinar
 ---
-Riccardo Cominotti (CNR-INO, Pitaevskii BEC Center, Università di Trento, Italy) gives a webinar about 'False vacuum decay via bubble formation in ferromagnetic superfluids'.
+Riccardo Cominotti (Pitaevskii BEC Center, CNR-INO, Università di Trento, Italy) gives a webinar about 'False vacuum decay via bubble formation in ferromagnetic superfluids'.
 
 A classical system can have multiple equilibrium states at different energies; the absolute ground state is a
 stable configuration, while the other local energy minima are metastable. In a quantum field theory, quantum
