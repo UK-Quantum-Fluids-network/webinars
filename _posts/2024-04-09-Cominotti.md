@@ -6,6 +6,12 @@ categories: webinar
 ---
 Riccardo Cominotti (Pitaevskii BEC Center, CNR-INO, Università di Trento, Italy) gives a webinar about 'False vacuum decay via bubble formation in ferromagnetic superfluids'.
 
+Join Zoom Meeting
+https://newcastleuniversity.zoom.us/j/84442798177
+
+Meeting ID: 844 4279 8177
+
+
 A classical system can have multiple equilibrium states at different energies; the absolute ground state is a
 stable configuration, while the other local energy minima are metastable. In a quantum field theory, quantum
 fluctuations can trigger the macroscopic tunneling of the field from a metastable state (the false vacuum) to
