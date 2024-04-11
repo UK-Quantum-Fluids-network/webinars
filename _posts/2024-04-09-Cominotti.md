@@ -6,7 +6,7 @@ categories: webinar
 ---
 Riccardo Cominotti (Pitaevskii BEC Center, CNR-INO, Università di Trento, Italy) gives a webinar about 'False vacuum decay via bubble formation in ferromagnetic superfluids'.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2BhFQrPoUzM?si=" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 A classical system can have multiple equilibrium states at different energies; the absolute ground state is a
