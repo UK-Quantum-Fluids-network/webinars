@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Riccardo Cominotti (CNR-INO, Trento) talks about 'False vacuum decay via bubble formation in ferromagnetic superfluids' (4PM UK time)"
+title:  "Riccardo Cominotti (CNR-INO, Trento) talks about 'False vacuum decay via bubble formation in ferromagnetic superfluids'"
 date:   2024-04-09
 categories: webinar
 ---
