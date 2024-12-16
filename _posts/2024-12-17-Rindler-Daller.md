@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tanja Indler-Daller (University of Vienna) gives a webinar on 'Dark matter as self-gravitating BECs: another link between condensed
+title:  "Tanja Rindler-Daller (University of Vienna) gives a webinar on 'Dark matter as self-gravitating BECs: another link between condensed
 matter and gravity' (4pm UK time)"
 date:   2024-12-17
 categories: webinar
