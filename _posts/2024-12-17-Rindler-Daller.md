@@ -8,17 +8,10 @@ categories: webinar
 Tanja Rindler-Daller (University of Vienna) gives a webinar on 'Dark matter as self-gravitating BECs: another link between condensed
 matter and gravity' at 4pm UK time.
 
-Zoom details:
+Chair: Samuli Autti
 
-Topic: Quantum fluids webinar
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rz6zaN3DSh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Time: Dec 17, 2024 04:00 PM London
-
-Join Zoom Meeting
-
-https://newcastleuniversity.zoom.us/j/82756915672
-
-Meeting ID: 827 5691 5672
 
 Ultralight bosons have been prominent candidates for the resolution of
 the cosmological dark matter problem.
