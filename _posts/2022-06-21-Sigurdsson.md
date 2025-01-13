@@ -7,6 +7,8 @@ categories: webinar
 
 Dr Helgi Sigurðsson (University of Southampton) gives a webinar titled "Programmable networks of exciton-polariton condensates."
 
+Chair: Samuli Autti (Lancaster University)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UllkIAcLdvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 
