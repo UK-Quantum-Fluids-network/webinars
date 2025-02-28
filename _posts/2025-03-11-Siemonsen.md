@@ -23,5 +23,7 @@ system and aspects of the emitted gravitational wave spectrum. These results hig
 vortex evolution in strongly curved spacetimes and their relevance across multiple scales in fundamental physics.
 
 [1] N. Siemonsen and W. E. East, Phys.Rev.D 108 (2023) 12, 124015
+
 [2] N. Siemonsen and W. E. East, Phys.Rev.D 107 (2023) 12, 124018
+
 [3] M. Fedderke, J. Huang, N. Siemonsen, (in prep)
