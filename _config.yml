@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: UK Quantum Fluids network - webinars
-email: d.proment@uea.ac.uk s.autti@lancaster.ac.uk andrew.baggaley@newcastle.ac.uk d.zmeev@lancaster.ac.uk kali.wilson@strath.ac.uk
+email: d.proment@uea.ac.uk s.autti@lancaster.ac.uk a.baggaley1@lancaster.ac.uk d.zmeev@lancaster.ac.uk kali.wilson@strath.ac.uk
 #email: andrew.baggaley@newcastle.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the UK Quantum Fluids network webinar series webpage.
