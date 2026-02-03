@@ -15,7 +15,12 @@ This two-stage transition has remained a major mystery since the 1970s. Only rec
 
 In this study, we perform numerical simulations based on a fully coupled two-fluid model [4]. In our framework, normal-fluid turbulence (NFT) is not obtained by directly solving the Navier–Stokes equation, but is instead generated and controlled by externally applied forcing, allowing us to systematically tune its turbulent intensity. The dynamics of ST are efficiently computed using the fast multipole method.
 Our results show that NFT significantly enhances ST via mutual friction. The vortex line density L of ST obeys the Vinen’s relation L<sup>1/2</sup>≈γV<sub>ns</sub>, where V<sub>ns</sub> is the counterflow velocity, and we find that the response coefficient γ is amplified in the presence of NFT. These findings provide new theoretical insight into the mutual interaction between ST and NFT, and offer a step toward understanding the mechanism underlying the T1–T2 transition and the onset of turbulence in the normal fluid.
-
-
 <br>
 
+[1] M. Tsubota, K. Kasamatsu, Quantum Hydrodynamics and Turbulence (Oxford University Press, 2025).
+
+[2] A. Marakov et al., Phys. Rev. B 91, 094503 (2015).
+
+[3] S. Yui et al., Phys. Rev. Lett. 120, 155301 (2018); Phys. Rev. Lett. 124, 155301 (2020), L. Galantucci et al., Eur. Phys. J. Plus 135, 547 (2020); Phys. Rev. Lett. 136, 016601 (2026), Y. Tang et al., Nat. Commun. 14, 2941 (2023).  
+
+[4] S. Yui, H. Kobayashi, M. Tsubota, R. Yokota, J. Phys. Soc. Jpn. 94, 043601 (2025). 
