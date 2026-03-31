@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Ibrahim Abdurrahman (Michigan State University) gives a webinar on 'The Role of Superfluidity in Nuclear Fission' (4pm UK time)"
+title:  "Ibrahim Abdurrahman (Michigan State University) gives a webinar on 'The Role of Superfluidity in Nuclear Fission'"
 date:   2026-03-31
 categories: webinar
 ---
-Dr Ibrahim Abdurrahman (Michigan State University) gives a webinar on 'The Role of Superfluidity in Nuclear Fission' at 4PM UK time.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBt_jpkDTII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dr Ibrahim Abdurrahman (Michigan State University) gives a webinar on 'The Role of Superfluidity in Nuclear Fission'.
 
 
 
