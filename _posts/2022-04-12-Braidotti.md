@@ -4,6 +4,7 @@ title:  "Maria Chiara Braidotti gives a webinar on 'Amplification of waves from 
 date:   2022-04-12
 categories: webinar
 ---
+
 Maria Chiara Braidotti (University of Glasgow) gives a webinar on "Amplification of waves from rotating media."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xqbXeyk7WI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

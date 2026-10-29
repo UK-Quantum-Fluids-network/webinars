@@ -4,7 +4,7 @@ title:  "Dr Luca Galantucci gives the inaugural talk in the UK Quantum Fluid Web
 date:   2021-01-26
 categories: webinar
 ---
-Dr Luca Galantucci (Newcastle University) gives a webinar on 'Long-lived superfluid vortex bundles in a self-consistent model of Quantum Turbulence'
+Luca Galantucci (Newcastle University) gives a webinar on 'Long-lived superfluid vortex bundles in a self-consistent model of Quantum Turbulence'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6pJ6svwACQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

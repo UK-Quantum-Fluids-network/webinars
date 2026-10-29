@@ -5,7 +5,7 @@ date:   2022-06-21
 categories: webinar
 ---
 
-Dr Helgi Sigurðsson (University of Southampton) gives a webinar titled "Programmable networks of exciton-polariton condensates."
+Helgi Sigurðsson (University of Southampton) gives a webinar titled "Programmable networks of exciton-polariton condensates."
 
 Chair: Samuli Autti (Lancaster University)
 

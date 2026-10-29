@@ -4,7 +4,7 @@ title:  "Nils Siemonsen (Princeton University) gives a webinar on 'Vortex dynami
 date:   2025-03-11
 categories: webinar
 ---
-Dr Nils Siemonsen (Princeton University) gives a webinar on 'Vortex dynamics in strong gravitational fields' (4PM UK time)
+Nils Siemonsen (Princeton University) gives a webinar on 'Vortex dynamics in strong gravitational fields' (4PM UK time)
 
 Chair: Samuli Autti
 

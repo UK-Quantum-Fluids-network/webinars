@@ -4,7 +4,7 @@ title:  "David Schmoranzer gives a webinar on 'Experiments on Inhomogeneous Quan
 date:   2022-11-1
 categories: webinar
 ---
-Dr David Schmoranzer (Charles University) gives a webinar on "Experiments on Inhomogeneous Quantum Turbulence in Superfluid ⁴He".
+David Schmoranzer (Charles University) gives a webinar on "Experiments on Inhomogeneous Quantum Turbulence in Superfluid ⁴He".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V6tm3cO5U8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

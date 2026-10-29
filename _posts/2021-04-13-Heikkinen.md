@@ -4,7 +4,7 @@ title:  "Dr Petri Heikkinen gives a webinar on 'Fragility of surface states in t
 date:   2021-04-13
 categories: webinar
 ---
-Dr Petri Heikkinen (Royal Holloway University of London) gives a webinar on "Fragility of surface states in topological superfluid <sup>3</sup>He" at 4pm UK time.
+Petri Heikkinen (Royal Holloway University of London) gives a webinar on "Fragility of surface states in topological superfluid <sup>3</sup>He" at 4pm UK time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FyeDu3xcyDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 

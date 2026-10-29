@@ -4,7 +4,7 @@ title:  "Dr Igor Todoshchenko gives a webinar on 'Mobile solid 3He on carbon nan
 date:   2021-04-06
 categories: webinar
 ---
-Dr Igor Todoshchenko (Aalto University) gives a webinar on "Mobile solid <sup>3</sup>He on carbon nanotube promoted by topological frustration" at 4pm UK time.
+Igor Todoshchenko (Aalto University) gives a webinar on "Mobile solid <sup>3</sup>He on carbon nanotube promoted by topological frustration" at 4pm UK time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qyfADaDo_EI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
