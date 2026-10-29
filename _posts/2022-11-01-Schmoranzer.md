@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Experiments on Inhomogeneous Quantum Turbulence in Superfluid ⁴He"
+title:  "David Schmoranzer gives a webinar on 'Experiments on Inhomogeneous Quantum Turbulence in Superfluid ⁴He'"
 date:   2022-11-1
 categories: webinar
 ---

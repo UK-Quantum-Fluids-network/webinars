@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Superfluid neutron stars and pulsar glitches"
+title:  "Nils Andersson gives a webinar on 'Superfluid neutron stars and pulsar glitches'"
 date:   2023-04-20
 categories: webinar
 ---
